@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Pedro
 - 🌱 I’m currently developing and learning TypeScript
 
-[![wakatime](https://wakatime.com/badge/user/72e6d426-4052-4b25-b07e-a52553ac655e/project/7b839f4c-a863-405c-bbb6-d0db35a6165c.svg)](https://wakatime.com/badge/user/72e6d426-4052-4b25-b07e-a52553ac655e/project/7b839f4c-a863-405c-bbb6-d0db35a6165c)
+[![wakatime](https://wakatime.com/badge/user/72e6d426-4052-4b25-b07e-a52553ac655e.svg)](https://wakatime.com/@72e6d426-4052-4b25-b07e-a52553ac655e)
 
 <p align="center">
 
