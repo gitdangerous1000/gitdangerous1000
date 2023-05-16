@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pedro Pupo
-- 👀 I am interested in knowing and learning about the front end area
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning TypeScript
 
 [![wakatime](https://wakatime.com/badge/user/72e6d426-4052-4b25-b07e-a52553ac655e.svg)](https://wakatime.com/@72e6d426-4052-4b25-b07e-a52553ac655e)
 
