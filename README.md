@@ -3,7 +3,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/72e6d426-4052-4b25-b07e-a52553ac655e.svg)](https://wakatime.com/@72e6d426-4052-4b25-b07e-a52553ac655e)
 
-<p align="center">
+<div align="center">
 
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=gitdangerous1000&theme=radical&hide_border=true&background=FFFFFF00">
 
