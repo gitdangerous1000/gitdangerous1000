@@ -7,7 +7,7 @@
 
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=gitdangerous1000&theme=radical&hide_border=true&background=FFFFFF00">
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gitdangerous1000&layout=compact&langs_count=10&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardeath950&layout=donut&langs_count=10&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </div
 
